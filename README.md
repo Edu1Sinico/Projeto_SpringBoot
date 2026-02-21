@@ -1,4 +1,4 @@
-# Projeto SpringBoot - Conteúdos do Prof. Rogério Napoleão Jr
+# Projeto SpringBoot - Aprendizagem e Revisão
 
 Projeto dedicado para aprendizagem e revisão de conteúdos de SpringBoot, utilizando vídeos disponibilizados gratuitamente pelo canal do professor Rogério Napoleão Jr.
 
