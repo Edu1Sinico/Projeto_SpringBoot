@@ -9,6 +9,7 @@ Projeto dedicado para aprendizagem e revisão de conteúdos de SpringBoot, utili
 - [O QUE É JPA E HIBERNATE E COMO FAZER UM MAPEAMENTO COM JPA](https://www.youtube.com/watch?v=8qP06yVj5JU)
 - [QUAL O PAPEL DO DTO E DO ENTITY EM UM PROJETO JAVA SPRING BOOT?](https://www.youtube.com/watch?v=ninjPTQjNSI)
 - [O QUE SÃO AS OPERAÇÕES CRUD E COMO IMPLEMENTAR NO SPRING BOOT?](https://www.youtube.com/watch?v=kox99rwtwoo)
+<br>
 
 >**Estrutura e ferramentas Back-End do Projeto SpringBoot**
 
